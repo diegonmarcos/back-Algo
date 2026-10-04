@@ -1,1 +1,0 @@
-../push_swap/memory/1_1_mem_clear.c

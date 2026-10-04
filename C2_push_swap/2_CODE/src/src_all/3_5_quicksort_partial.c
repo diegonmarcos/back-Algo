@@ -1,1 +1,0 @@
-../push_swap/sort/gear/3_5_quicksort_partial.c
